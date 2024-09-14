@@ -12,12 +12,12 @@ Modify ownership of file by
 change to root directory #file
 
 ```
-chmod +x yum-script-with-ip.sh
+chmod +x DNS-cf.sh
 
 ```
 
 ```
-sh yum-script-with-ip.sh
+sh yDNS-cf.sh
 
 ```
 
